@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yet one warning more, or, The tender of the Lords love to the lawyers, judges, rulers of these nations by George Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28253</idno>
+            <idno type="STC">Wing B3019</idno>
+            <idno type="STC">ESTC R19759</idno>
+            <idno type="EEBO-CITATION">12400256</idno>
+            <idno type="OCLC">ocm 12400256</idno>
+            <idno type="VID">61257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 270:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yet one warning more, or, The tender of the Lords love to the lawyers, judges, rulers of these nations by George Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in University of Michigan Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61257:1"/>
+            <pb facs="tcp:61257:1"/>
+            <p>YET ONE WARNING MORE. OR, The Tender of the Lords Love To the</p>
+            <p>
+               <hi>Lawyers</hi>
+               <hi>Judges</hi>
+               <hi>Rulers</hi> of <hi>theſe</hi> Nations.</p>
+            <p>By <hi>GEORGE BISHOPE.</hi>
+            </p>
+            <q>And I charged your Judges at that time, ſaying, Hear the Cauſes be<g ref="char:EOLhyphen"/>tween your Brethren, and judge righteouſly between every man and his Brother, and the ſtranger that is with him: Ye, ſhall not reſpect per<g ref="char:EOLhyphen"/>ſons in Judgement; but you ſhall hear the ſmall as well as the great, and ſhall not be afraid of the face of man; for, the Judgement is Gods. And the Cauſe that is too hard for you, bring it unto me, and I will hear it, <bibl>
+                  <hi>Deut. 1.16, 17.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Robert Wilſon,</hi> at the <hi>Black-ſpread. Eagle</hi> and <hi>Windmill</hi> in <hi>Martine Le Grand,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:61257:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:61257:2"/>
+            <head>
+               <hi>Yet</hi> One <hi>Warning</hi> more, &amp;c. to the <hi>Lawyers, Judges,</hi> and <hi>Ru<g ref="char:EOLhyphen"/>lers</hi> of <hi>theſe</hi> Nations.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>
+               <hi>YOu</hi> had need to look to it what manner of Judg<g ref="char:EOLhyphen"/>ment <hi>ye</hi> give; for, the <hi>Judgment</hi> is not <hi>Mans,</hi> but the <hi>Lords,</hi> who is with <hi>you</hi> in the <hi>Judgment;</hi> and look with what Judgment <hi>ye</hi> judge, <hi>ye</hi> ſhall be judged; and with what Meaſure <hi>ye</hi> mete, it ſhall be meaſured to <hi>you</hi> again from the hand of the <hi>Lord.</hi>
+            </p>
+            <p>And this <hi>I</hi> am moved of the <hi>Lord God</hi> of <hi>Heaven</hi> and <hi>Earth</hi> to write unto <hi>you.</hi> Who bind <hi>heavy</hi> Burdens, &amp; <hi>grievous</hi> to be born, and lay <hi>them</hi> on mens ſhoulders, but <hi>ye your ſelves</hi> will not move <hi>them</hi> with <hi>one</hi> of <hi>your</hi> Fingers; who <hi>afflict</hi> the <hi>Juſt,</hi> and <hi>take</hi> a <hi>Bribe,</hi> and <hi>turn</hi> aſide the <hi>Poor</hi> in the <hi>Gate</hi> from <hi>their</hi> Right; Who <hi>turn</hi> Judgment away <hi>backward,</hi> and <hi>Juſtice</hi> ſtands <hi>afarr off,</hi> and <hi>Equity</hi> cannot <hi>enter;</hi> who <hi>make</hi> a <hi>man</hi> an <hi>Offender</hi> for a <hi>word,</hi> and <hi>lay</hi> ſnares for <hi>him</hi> who <hi>reproveth</hi> in the <hi>Gate,</hi> and <hi>turn</hi> aſide the <hi>Juſt</hi> for a <hi>thing</hi> of <hi>nought;</hi> who <hi>pant</hi> after the <hi>Duſt</hi> of the <hi>Earth</hi> u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on the <hi>head</hi> of the <hi>Poor,</hi> and <hi>turn</hi> aſide the <hi>way</hi> of the <hi>Meek;</hi> who ſell the <hi>Righteous</hi> for <hi>Silver,</hi> and the <hi>Poor</hi> for a <hi>pair</hi> of <hi>Shooes;</hi> whoſe <hi>treading</hi> is upon the <hi>Poor,</hi> and who take from <hi>him Burdens</hi> of <hi>Wheat;</hi> who <hi>abhorr</hi> Judgment, and <hi>pervert</hi> all Equity; who <hi>turn</hi> Judgment into <hi>Gall,</hi> and the <hi>fruit</hi> of <hi>Righteouſneſs</hi> into <hi>Hemlock.</hi> The <hi>Lord God</hi> of <hi>Heaven</hi> and <hi>Earth</hi> will be avenged on <hi>you:</hi> As <hi>truely</hi> as <hi>I live,</hi> ſaith the <hi>Lord,</hi> will <hi>I</hi> viſit <hi>you,</hi> and <hi>my</hi> hand ſhall be upon <hi>you;</hi> and <hi>I will</hi> do unto <hi>you,</hi> as <hi>you</hi> have done: &amp; <hi>all</hi> the <hi>Earth</hi> ſhall be <hi>filled</hi> with the <hi>Glory</hi> of the <hi>Lord,</hi> and <hi>he</hi> will make <hi>you</hi> an <hi>Execration,</hi> &amp; an <hi>hiſſing,</hi> &amp; an <hi>Aſtoniſhment,</hi> and a <hi>Curſe</hi> upon the <hi>face</hi> of the <hi>Earth;</hi> and <hi>ye</hi> ſhall know that <hi>I</hi> am the <hi>Lord,</hi> ſaith the <hi>Lord,</hi> the <hi>Mighty</hi> God
+<pb n="2" facs="tcp:61257:3"/> of <hi>Jacob;</hi> and <hi>his</hi> King who <hi>liveth</hi> for <hi>ever,</hi> to whom is the <hi>Glory,</hi> and the <hi>Praiſe,</hi> and the <hi>Dominion</hi> for <hi>ever</hi> and <hi>ever.</hi>
+            </p>
+            <p>Therefore, my <hi>Dear</hi> Friends, my <hi>very</hi> Bowells are even tur<g ref="char:EOLhyphen"/>ned within <hi>me</hi> for <hi>you,</hi> that <hi>you</hi> may not be found among the number of <hi>thoſe</hi> whom the <hi>Lord</hi> will <hi>ſo</hi> viſit; upon whom <hi>he</hi> will be <hi>ſo</hi> avenged, and <hi>his</hi> hand will be <hi>thus</hi> upon; For <hi>this</hi> thing <hi>I</hi> have heard from the <hi>Lord,</hi> and <hi>this</hi> thing will <hi>aſſuredly</hi> be to <hi>thoſe</hi> whom the <hi>Lord</hi> ſhall finde <hi>ſo</hi> doing in the <hi>Day</hi> wherein <hi>he</hi> will Judge the <hi>Earth</hi> in <hi>Righteouſneſs,</hi> and render unto <hi>every</hi> man according to <hi>his Deeds;</hi> The <hi>Lord</hi> hath <hi>ſworn</hi> it, who is with <hi>you</hi> in the <hi>Judgment,</hi> and takes notice how <hi>ye</hi> proceed, upon what ground <hi>ye</hi> go, and how <hi>ye</hi> move, and what <hi>ye</hi> do, and will give unto <hi>you</hi> according to <hi>your</hi> Works.</p>
+            <p>And ſo, my <hi>Friends,</hi> heed that in <hi>you</hi> which tells <hi>you</hi> it is ſo; That is near <hi>you,</hi> and with <hi>you:</hi> that ſearcheth <hi>your</hi> hearts, and trieth <hi>your</hi> reins, and knoweth the <hi>very</hi> thoughts of <hi>your</hi> heart; that in <hi>his</hi> eye-ſight, (in the <hi>ſight</hi> of <hi>that</hi> of <hi>him</hi> in <hi>you</hi>) which ſhewes <hi>ye</hi> this and all that <hi>ye</hi> do. <hi>Ye</hi> may do <hi>every</hi> thing, and ſo be <hi>accepted</hi> of the <hi>Lord,</hi> in the <hi>day</hi> wherein <hi>he</hi> ſhall judge <hi>every</hi> man according to <hi>his</hi> Works, at his Appearing and <hi>Kingdome,</hi> to whom be <hi>Glory,</hi> and <hi>Praiſe,</hi> and <hi>Dominion</hi> everlaſting.</p>
+            <p>For, <hi>this</hi> know <hi>aſſuredly,</hi> That the <hi>Lord</hi> is not <hi>ſlack</hi> concern<g ref="char:EOLhyphen"/>ing <hi>his</hi> Promiſe (as ſome <hi>men</hi> count ſlackneſs) but is <hi>long-ſuffe<g ref="char:EOLhyphen"/>ring</hi> to <hi>us</hi> wards, not willing that <hi>any</hi> ſhould periſh, but that <hi>all</hi> ſhould come unto <hi>Repentance.</hi> And <hi>his</hi> Fan is in <hi>his</hi> hand who will <hi>thoroughly</hi> purge <hi>his</hi> Floor, and gather the <hi>Wheat</hi> into the <hi>Garner,</hi> and burn up the <hi>Chaff</hi> with <hi>unquenchable</hi> fire.</p>
+            <p>Therefore, it concernes <hi>ye</hi> to minde what <hi>ye</hi> do, becauſe <hi>ye</hi> muſt be accountable unto <hi>him</hi> who is <hi>Judge</hi> of <hi>heaven</hi> and <hi>earth;</hi> who will <hi>judge</hi> the <hi>World</hi> in <hi>Righteouſneſs,</hi> and the <hi>People</hi> with <hi>Equity;</hi> who is <hi>no</hi> Reſpecter or <hi>perſons,</hi> but will render unto <hi>every</hi> man according to <hi>his</hi> Deeds. From <hi>whoſe</hi> eye <hi>none</hi> can be hid, who <hi>ſees</hi> in <hi>ſecret,</hi> who is <hi>privy</hi> to <hi>all you</hi> do (<hi>his</hi> Witneſs in <hi>you</hi>) who knowes the <hi>Compaſs</hi> and <hi>End</hi> of <hi>all your</hi> Actions, and the <hi>thoughts</hi> of <hi>your</hi> hearts as <hi>ye</hi> lie upon <hi>your</hi> Beds; who ſearch<g ref="char:EOLhyphen"/>eth the <hi>heart</hi> and trieth the <hi>reines;</hi> before whom <hi>all</hi> things are <hi>naked</hi> and <hi>hare,</hi> even before <hi>him</hi> with whom <hi>we</hi> have to do;
+<pb n="3" facs="tcp:61257:3"/> whoſe Judgment <hi>cannot</hi> be <hi>avoided;</hi> who doth <hi>none</hi> Iniquity, neither can <hi>ſin</hi> come near <hi>his</hi> Dwelling; Who is a <hi>GOD</hi> of <hi>Judgment; Bleſſed are all they that put their truſt in Him.</hi>
+            </p>
+            <p>So I have poured forth the <hi>Boſome</hi> of <hi>my</hi> love to <hi>you</hi> in the <hi>Movings</hi> of the <hi>Lord;</hi> Whoſe <hi>Love</hi> is to <hi>his</hi> ſeed in <hi>you;</hi> who would have <hi>none</hi> of <hi>you</hi> to <hi>periſh,</hi> but that <hi>all</hi> of <hi>you</hi> might <hi>have Eternal life. His</hi> bowels move in <hi>me</hi> to <hi>you</hi>-wards; <hi>He</hi> would have none of <hi>you</hi> to <hi>die,</hi> but <hi>rather</hi> that <hi>yee</hi> might <hi>every</hi> one of <hi>you</hi> return and <hi>live.</hi> There is <hi>ſomething of him</hi> near <hi>you,</hi> and in <hi>you,</hi> which tells <hi>you</hi> this, and ſhews <hi>you</hi> the place of <hi>Underſtanding,</hi> which <hi>he hath</hi> therefore placed in <hi>you</hi> to Direct <hi>you,</hi> that <hi>ye</hi> may know the <hi>Path</hi> of <hi>Wiſdom,</hi> and the <hi>place</hi> of <hi>Underſtanding;</hi> and when <hi>matters</hi> are too hard for <hi>you;</hi> that thither <hi>ye</hi> might bring <hi>them,</hi> and have <hi>Counſel,</hi> and find <hi>Wiſdom.</hi> And this <hi>ye</hi> have need of to <hi>know,</hi> and to <hi>repair</hi> unto, and to be <hi>guided</hi> by <hi>it</hi> above <hi>all</hi> other <hi>men;</hi> becauſe <hi>you</hi> ſtand in the <hi>place of judgment,</hi> and ſit in the <hi>Seat</hi> thereof, and are <hi>Counſellors</hi> thereunto; that <hi>you</hi> may wrong <hi>no</hi> man, nor <hi>oppreſs,</hi> nor deny to <hi>any,</hi> nor <hi>defer</hi> Ju<g ref="char:EOLhyphen"/>ſtice and Judgment: For (as I have ſaid) the <hi>Judgment</hi> is not <hi>mans,</hi> but the <hi>Lords,</hi> who <hi>ſees,</hi> and will <hi>require;</hi> who <hi>ſtandeth</hi> in the <hi>Congregation</hi> of the <hi>Mighty,</hi> and, <hi>judgeth</hi> among the <hi>gods.</hi>
+            </p>
+            <p>
+               <hi>But where ſhall Wiſdom be found? And where is the place of Underſtanding? Seeing man knows not the price thereof, neither is it found in the Land of the Living: The Depth ſaith, It is not in me; and the Sea ſaith, It is not with me: It cannot be gotten for Gold, neither ſhall Silver be weighed for the Price thereof: It cannot be valued with the Gold of Ophir, with the precious O<g ref="char:EOLhyphen"/>nix, or the Saphire: The Gold and the Chryſtal cannot equal it; and the exchange of it ſhall not be for Jewels of fine Gold: No men<g ref="char:EOLhyphen"/>tion ſhall be made of Coral, or of Pearls, for the price of Wiſ<g ref="char:EOLhyphen"/>dom is above Rubies. The Topaz of Ethiopia ſhall not equal it, Neither ſhall it be valued with pure Gold. Whence then cometh Wiſdom? And where is the place of Underſtanding? Seeing it is hid from the eyes of all living, and kept cloſe from the Fowls of the Air: Deſtru<g ref="char:EOLhyphen"/>ction and Death ſay, We have heard the fame thereof with our Ears.
+<pb n="4" facs="tcp:61257:4"/> God underſtandeth the Way thereof, and he knoweth the Place thereof: For, he looketh to the ends of the Earth, and ſeeth under the whole Hea<g ref="char:EOLhyphen"/>ven, to make the weight for the Winds; and he weigheth the Waters by Meaſure, when he made a Decree for the Rain, and away for the Light<g ref="char:EOLhyphen"/>ning of the Thunder. Then did he ſee it, and declare it; he prepared it, yea and ſearched it out; And unto man he ſaid, <hi>Behold,</hi> the <hi>Fear</hi> of the <hi>Lord,</hi> that is <hi>Wiſdom;</hi> and to <hi>depart</hi> from <hi>Evil</hi> is <hi>Vnderſtanding.</hi>
+               </hi>
+            </p>
+            <p>So <hi>Friends,</hi> here <hi>you</hi> have it, <hi>viz.</hi> the <hi>Place</hi> of <hi>Underſtanding</hi> from <hi>whence</hi> cometh <hi>Wiſdom,</hi> which is <hi>above</hi> the <hi>Price</hi> of <hi>all</hi> things here below, and hid from the <hi>eyes</hi> of <hi>all</hi> living, (who know not the <hi>Lord</hi>) and kept <hi>cloſe</hi> from the <hi>Fowles</hi> of the <hi>Air. <hi>Behold,</hi> the <hi>Fear</hi> of the <hi>Lord</hi> that is <hi>Wiſdom;</hi> &amp; to <hi>depart</hi> from <hi>Evil</hi> is <hi>Vnderſtanding;</hi>
+               </hi> And this the <hi>Lord</hi> ſaith, who <hi>underſtandeth</hi> the <hi>Way</hi> thereof, and <hi>knoweth</hi> the <hi>Place</hi> thereof.</p>
+            <p>To <hi>this,</hi> then, come; <hi>hitherto</hi> reſort for <hi>Wiſdom</hi> in the <hi>time</hi> of <hi>need;</hi> to the <hi>place</hi> of <hi>Underſtanding,</hi> that <hi>ye</hi> may <hi>judge</hi> for <hi>God,</hi> and give Counſel for the <hi>Moſt High, that Truth may ſpring out of the Earth, and Righteouneſs may look down from Heaven; ſo the Lord may give that which is good, and our Land may yeild her encreaſe:</hi> For, <hi>for the Tranſgreſſion of a Land, many are the Princes thereof, but by a man of Underſtanding and Knowledge, the ſtate thereof ſhall be prolonged.</hi>
+            </p>
+            <p>So <hi>my</hi> Friends, the <hi>Way</hi> is <hi>plain,</hi> and the <hi>Path eaſie,</hi> and <hi>you</hi> know it, it concerns <hi>you</hi> to <hi>walk</hi> therein. The <hi>Fear <hi>of the</hi> Lord, <hi>that is</hi> Wiſdom. <hi>&amp; to</hi> depart <hi>from</hi> Evil, <hi>that is</hi> Vnderſtanding:</hi> &amp; <hi>that</hi> which ſhews <hi>ye</hi> this, is the <hi>Way</hi> to <hi>God,</hi> and there is <hi>no</hi> Other; if <hi>ye</hi> know it, then are <hi>ye</hi> to <hi>walk</hi> therein; For, <hi>that Servant which knew his Lords will, and prepared not himſelf, neither did according to his will, ſhall be beaten with many ſtripes.</hi> And, <hi>if you were blind, you ſhould have no ſin</hi> (ſaith <hi>Chriſt,</hi> John 9.41) <hi>but now ye ſay, We ſee, therefore your ſin rem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</hi>
+            </p>
+            <p>Therefore it concerns <hi>you,</hi> ſeeing <hi>you</hi> know <hi>theſe</hi> things, to do <hi>them.</hi> Now if <hi>ye</hi> know theſe things (ſaid <hi>Chriſt</hi> to <hi>his</hi> Diſciples) happy are <hi>ye</hi> if <hi>ye</hi> do <hi>them.</hi> For, the <hi>Lord God</hi> will require an <hi>ac<g ref="char:EOLhyphen"/>count</hi> of <hi>ye</hi> and <hi>ye</hi> may not pretend <hi>ignorance,</hi> or <hi>plead</hi> it, ſeeing <hi>you</hi> know where is the <hi>place</hi> of <hi>Underſtanding,</hi> from whence <hi>Wiſdom</hi> cometh: The times of <hi>this</hi> ignorance <hi>God</hi> winked at, but <hi>now</hi> com<g ref="char:EOLhyphen"/>mandeth <hi>all</hi> men every <hi>where</hi> to <hi>Repent;</hi> becauſe <hi>he</hi> hath appointed a <hi>Day</hi> wherein <hi>he</hi> will <hi>judge</hi> the <hi>world</hi> in <hi>Righteouſneſs</hi> by <hi>that</hi> man
+<pb n="5" facs="tcp:61257:4"/> whom <hi>he</hi> hath ordained; whereof <hi>he</hi> hath given <hi>aſſurance</hi> to <hi>all</hi> men, in that <hi>he</hi> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th raiſed <hi>him</hi> from the <hi>Dead; That</hi> which ſhews <hi>you</hi> the <hi>fear</hi> of the <hi>Lord,</hi> gives you <hi>this</hi> Aſſurance; For, that is <hi>ri<g ref="char:EOLhyphen"/>ſen</hi> from the <hi>Dead,</hi> which bids <hi>you</hi> fear the <hi>Lord; And fear God, and give glory to him, for the hour of his Judgement is come; and worſhip him that made Heaven and Earth, and the Sea, and the Fountains of waters, was the everlaſting Goſpel</hi> which <hi>John</hi> heard the <hi>Angel preach,</hi> who <hi>flew</hi> through <hi>the midſt of Heaven,</hi> to <hi>every</hi> Nation, and <hi>Kin<g ref="char:EOLhyphen"/>dred,</hi> and <hi>Tongue,</hi> and <hi>People</hi> After whom followed <hi>another</hi> Angel, ſaying, <hi>Babylon is fallen, is fallen, that great City, becauſe ſhe made all Nations drink of the wine of the wrath of her Fornication,</hi> Rev. 14. And <hi>he</hi> is <hi>Wiſdom</hi> and <hi>Counſel, wonderful Counſellor,</hi> the <hi>Everlaſting</hi> Father, the <hi>Prince</hi> of <hi>Peace,</hi> who ſhews <hi>ye</hi> this; of the <hi>Encreaſe</hi> of <hi>whoſe</hi> Government and Peace there ſhall be no end; Upon the <hi>Throne</hi> of <hi>David,</hi> and upon his <hi>Kingdom,</hi> to Order <hi>it,</hi> and Eſta<g ref="char:EOLhyphen"/>bliſh <hi>it</hi> with <hi>Juſtice</hi> and with <hi>Judgement,</hi> from <hi>henceforth even</hi> for <hi>ever.</hi>
+            </p>
+            <p>And here <hi>ye</hi> may be ſupplied, and here <hi>ye</hi> may be furniſhed. If any of <hi>you</hi> lack wiſdom (ſaid <hi>James</hi> to the <hi>Twelve</hi> Tribes which were ſcattered abroad, <hi>Chap.</hi> 1.5, 6, 7 8.) let <hi>him</hi> ask it of <hi>God,</hi> that giveth to <hi>all</hi> men liberally, and <hi>upbraideth</hi> not, and it ſhall be given <hi>him;</hi> but let <hi>him</hi> ask in <hi>Faith,</hi> nothing <hi>wavering;</hi> for <hi>he</hi> that <hi>wavereth</hi> is like a <hi>wave</hi> of the <hi>Sea,</hi> driven with the <hi>Wind,</hi> and <hi>toſſed;</hi> for let not <hi>that</hi> man think that <hi>he</hi> ſhall receive any thing of the <hi>Lord:</hi> A <hi>Double-minded</hi> man is <hi>unſtable</hi> in <hi>all</hi> his ways: For, <hi>he is</hi> the <hi>fountain</hi> of <hi>wiſdom,</hi> who is the <hi>Son</hi> of <hi>God, Chriſt Jeſus</hi> the <hi>Wiſdom</hi> of <hi>God,</hi> and the <hi>Power</hi> of <hi>God.</hi>
+            </p>
+            <p>To <hi>Him</hi> come; to <hi>Him</hi> repair; <hi>wait</hi> at <hi>Wiſdoms</hi> gate; bleſ<g ref="char:EOLhyphen"/>ſed are <hi>they</hi> that find it, and <hi>enter</hi> therein, and receive of <hi>its</hi> Treaſure, and follow <hi>its</hi> Steps. Now, the <hi>fear</hi> of the <hi>Lord</hi> is the <hi>beginning</hi> of <hi>Wiſdom; (here's</hi> the <hi>gate</hi>) A <hi>good Underſtanding (here's</hi> the <hi>place</hi>) have <hi>all</hi> they that <hi>Do</hi> thereafter; The <hi>Praiſe</hi> of <hi>it (here's</hi> the <hi>Crown) endures</hi> for <hi>ever.</hi>
+            </p>
+            <p>And now, <hi>My</hi> Dear Friends; to the <hi>ſeed</hi> of <hi>God</hi> in <hi>you all,</hi> am I moved of the <hi>Lord</hi> to write <hi>this,</hi> that <hi>ye</hi> may ſee <hi>your</hi> ſtate, and where <hi>you</hi> are; and how <hi>your</hi> Actions are weighed; and on what Foundation <hi>your</hi> Judgment ſtands; and at what <hi>you</hi> enter. The <hi>fear</hi> of the <hi>Lord</hi> is the <hi>beginning</hi> of <hi>Wiſdom.</hi> Is it there <hi>you</hi> enter
+<pb n="6" facs="tcp:61257:5"/> in <hi>every</hi> Matter, in <hi>every</hi> Cauſe <hi>you</hi> have to do with? Have <hi>you</hi> recourſe to <hi>Wiſdom</hi> for <hi>Counſel,</hi> through <hi>this</hi> Gate of Underſtan<g ref="char:EOLhyphen"/>ding, <hi>The fear of the L<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>? Open ye</hi> the <hi>Gates</hi> that the <hi>Righteous Nation</hi> that <hi>keepeth</hi> the <hi>Truth</hi> may <hi>enter in: This</hi> will ſearch <hi>you</hi> all; <hi>this</hi> will be a <hi>Candle; this</hi> is the <hi>Candle</hi> of the <hi>Lord</hi> that ſear<g ref="char:EOLhyphen"/>cheth the <hi>innermoſt</hi> parts of the <hi>Belly: This</hi> will quickly tell <hi>you</hi> how 'tis with <hi>you:</hi> It's very <hi>near you,</hi> it's <hi>in you;</hi> it's as <hi>ready</hi> to let <hi>you</hi> ſee, as <hi>ye</hi> are to <hi>mind;</hi> yea it calleth upon <hi>you</hi> when <hi>ye</hi> mind not; and as <hi>ready</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is to let <hi>you</hi> ſee, and to mind you, ſo will it be as ready to <hi>judge,</hi> if <hi>you</hi> mind it not. For the <hi>Judge</hi> ſtandeth at the <hi>Door,</hi> the <hi>Gate</hi> of <hi>Wiſdom,</hi> the <hi>Fear</hi> of the <hi>Lord.</hi> In <hi>this</hi> let all <hi>your</hi> Actions be <hi>weighed;</hi> In <hi>this</hi> let all <hi>your</hi> Judge<g ref="char:EOLhyphen"/>ments <hi>begin;</hi> with <hi>this finiſh,</hi> and ſo the <hi>bleſſing</hi> of <hi>God</hi> will be up<g ref="char:EOLhyphen"/>on <hi>you;</hi> Otherwiſe <hi>you</hi> muſt ſink. It's the <hi>Word</hi> of the <hi>Lord</hi> to <hi>you,</hi> whether <hi>you</hi> will <hi>hear</hi> or <hi>forbear,</hi> through <hi>His</hi> Servant,</p>
+            <closer>
+               <dateline>
+                  <hi>Briſtol</hi>
+                  <date>3d. 10th. <hi>Month,</hi> 1661.</date>
+               </dateline>
+               <signed>GEO. BISHOPE.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:61257:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
